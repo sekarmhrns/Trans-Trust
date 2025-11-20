@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+Pillow
+streamlit
+opencv-contrib-python-headless
+ultralytics
+onnxruntime
+scikit-learn==1.6.1
+plotly
